@@ -2,4 +2,8 @@ Draft from Balsamiq basedvon a resume page containing a landing page with liks t
 
 Tryed to paste in a png file from Balsamiq. 
 
-Added a Boiler plate and this readme uppdate. s
+Added a Boiler plate and this readme uppdate. 
+
+Added file structure and some meta tags, basic css ass main.css 
+
+add menu and liks lost work couse codeanyware stopt responding.
