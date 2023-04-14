@@ -93,3 +93,26 @@ h1, h2 {
     
 }
 
+/*fotter */
+
+footer {
+
+    height: 100px;
+}
+
+.social-networks {
+    text-align: center;
+
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    color: floralwhite;
+    margin: 10px;
+    
+    
+}
