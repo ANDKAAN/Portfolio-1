@@ -7,3 +7,5 @@ Added a Boiler plate and this readme uppdate.
 Added file structure and some meta tags, basic css ass main.css 
 
 add menu and liks lost work couse codeanyware stopt responding.
+
+add hero image from pixels.com
