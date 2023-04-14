@@ -62,3 +62,36 @@ h1, h2 {
     color: black;
 }
 
+/*flex box styling */
+
+.flexbox-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    
+}
+
+.flexbox-item-1 {
+    min-height: 200px;
+    border: 2px floralwhite;
+    min-width: 200px;
+    background-color: aqua;
+    font-family: inherit
+}
+
+.flexbox-item-2 {
+    min-height: 200px;
+    border: 2px floralwhite;
+    min-width: 200px;
+    background-color: aqua;
+    font-family: inherit;
+}
+
+.flexbox-item-3 {
+    min-height: 200px;
+    border: 2px floralwhite;
+    min-width: 200px;
+    background-color: aqua;
+    font-family: inherit
+    
+}
