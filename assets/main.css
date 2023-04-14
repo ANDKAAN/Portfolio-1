@@ -81,16 +81,15 @@ h1, h2 {
 .flexbox-item-2 {
     min-height: 400px;
     border: 2px floralwhite;
-    width: 200px;
-    background-color: aqua;
+    width: 300px;
     font-family: inherit;
 }
 
 .flexbox-item-3 {
     min-height: 400px;
     border: 2px floralwhite;
-    width: 200px;
-    background-color: aqua;
+    width: 300px;
     font-family: inherit
     
 }
+
