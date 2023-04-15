@@ -57,6 +57,15 @@ h1, h2 {
     
 }
 
+/*order of ul list*/
+
+ul {
+    display:flex;
+    padding-left: 200px;
+    
+}
+
+
 a {
     color:inherit;
     text-decoration: none;
