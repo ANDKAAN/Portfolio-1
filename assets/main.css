@@ -57,9 +57,9 @@ h1, h2 {
     
 }
 
-#menu a {
+a {
+    color:inherit;
     text-decoration: none;
-    color: black;
 }
 
 /*flex box styling */
