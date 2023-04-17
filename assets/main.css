@@ -59,7 +59,7 @@ h1, h2 {
 
 /*order of ul list*/
 
-ul {
+#menu ul {
     display:flex;
     padding-left: 200px;
     
