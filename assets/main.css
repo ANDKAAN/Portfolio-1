@@ -125,3 +125,64 @@ footer {
     
     
 }
+
+/*media query*/
+
+@media all and (max-width: 600px) {
+
+    #logo {
+    font-size: 200%;
+}
+
+    #menu {
+    font-size: 80%;
+    letter-spacing: 2px;
+}
+    #menu ul {
+    display: block;
+    padding-left: 0;
+}
+    #menu li {
+    float: none;
+    margin-right: 0%;
+    margin-top: 35px;
+  
+}
+
+    img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .flexbox-container {
+
+    display: flex;
+    row-gap: 10px;
+    flex-wrap: wrap;
+  }
+
+}
+
+/* CSS for screen sizes between 400px to 600px */
+
+@media all and (min-width: 400px) and (max-width: 600px) {
+    
+    /* Adjust the font size and letter spacing for the menu */
+    #menu {
+      font-size: 80%;
+      letter-spacing: 2px;
+    }
+    
+    /* Change the display style of the list items and adjust margins */
+    #menu li {
+      float: none;
+      margin-right: 0;
+      margin-top: 30px;
+    }
+    
+    /* Adjust the padding for the menu list */
+    #menu ul {
+      display: block;
+      padding-left: 50%;
+    }
+  }
