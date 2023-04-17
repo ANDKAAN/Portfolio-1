@@ -171,6 +171,11 @@ footer {
     #menu {
       font-size: 80%;
       letter-spacing: 2px;
+      clear: left;
+      float: left;
+      margin-left: 30px;
+      margin-bottom: 20px;
+      line-height: 2px;
     }
     
     /* Change the display style of the list items and adjust margins */
