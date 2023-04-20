@@ -16,6 +16,15 @@ body{
     color: floralwhite;
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
+  p {
+    line-height: 15px;   /* within paragraph */
+    margin-bottom: 15px; /* between paragraphs */
+    }
+
 /*headings and logo*/
 
 h1, h2 {
@@ -147,6 +156,7 @@ form {
     padding: 50px;
     font-family: Roboto Slab;
     color:floralwhite;
+    max-width: 400px;
 
 }
 
