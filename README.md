@@ -51,7 +51,13 @@ the fix whas to contact tutors that pointed me to Love runing.
 <h2>Valdilation html</h2>
 
 <h2>Valdilation css</h2>
-
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
 <h2>Credits</h2>
 Hero image from pixels.com
