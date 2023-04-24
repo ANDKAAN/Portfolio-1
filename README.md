@@ -50,6 +50,66 @@ the fix whas to contact tutors that pointed me to Love runing.
 
 <h2>Valdilation html</h2>
 
+<!--     
+Error: Element a not allowed as child of element ul in this context. (Suppressing further errors from this subtree.)
+
+From line 22, column 17; to line 22, column 52
+
+          <a href="index.html" class="active">↩     
+
+Contexts in which element a may be used:
+Where phrasing content is expected.
+Content model for element ul:
+Zero or more li and script-supporting elements.
+Error: Element a not allowed as child of element ul in this context. (Suppressing further errors from this subtree.)
+
+From line 25, column 17; to line 25, column 72
+
+          <a href="#flexbox-item-1" target="self"  class="active">↩     
+
+Contexts in which element a may be used:
+Where phrasing content is expected.
+Content model for element ul:
+Zero or more li and script-supporting elements.
+Error: Element a not allowed as child of element ul in this context. (Suppressing further errors from this subtree.)
+
+From line 28, column 17; to line 28, column 71
+
+          <a href="#flexbox-item-2" target="self" class="active">↩     
+
+Contexts in which element a may be used:
+Where phrasing content is expected.
+Content model for element ul:
+Zero or more li and script-supporting elements.
+Error: Element a not allowed as child of element ul in this context. (Suppressing further errors from this subtree.)
+
+From line 31, column 17; to line 31, column 58
+
+          <a href="collaborate.html" class="active"><li>Co
+
+Contexts in which element a may be used:
+Where phrasing content is expected.
+Content model for element ul:
+Zero or more li and script-supporting elements.
+Error: Bad value 300px for attribute height on element img: Expected a digit but saw p instead.
+
+From line 39, column 9; to line 39, column 87
+
+>↩        <img src="assets/images/pixels1280x300.bmp" alt="Image of code" height="300px">↩    <
+
+Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed.
+
+From line 38, column 5; to line 38, column 13
+
+on-->↩    <section>↩     
+
+Error: Stray start tag script.
+
+From line 72, column 1; to line 72, column 80
+
+script-->↩<script src="https://kit.fontawesome.com/eca297c6d5.js" crossorigin="anonymous"></scri
+
+-->
 <h2>Valdilation css</h2>
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
