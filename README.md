@@ -50,6 +50,8 @@ the fix whas to contact tutors that pointed me to Love runing.
 
 <h2>Valdilation html</h2>
 
+Errors is in a coment section in this dokument. 
+
 <!--     
 Error: Element a not allowed as child of element ul in this context. (Suppressing further errors from this subtree.)
 
